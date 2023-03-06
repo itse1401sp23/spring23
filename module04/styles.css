@@ -14,4 +14,5 @@ header {
     padding-left: 120px;
     background-image: url(images/header-image-1.gif);
     background-position: left top;
+    background-repeat: no-repeat;
 }
